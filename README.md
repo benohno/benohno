@@ -6,16 +6,19 @@
 ### <div align="center">I'm Ben, a full-time data scientist 👨‍💻 since 2018🚀</div>  
   
 
-- 🔭 I’m currently working full time as a data scientist in government consulting and pursuing my data science masters at UC Berkeley  
-  
+- 🔭 I’m currently working full time as a data scientist in government consulting
 
-- 🌱 I’m currently learning Flutter for app development in addition to data science grad school  
+
+- 🎓 I graduated with my Master's in Data Science from UC Berkeley and studied Statstics in college at Harvard
+
+
+- 🌱 I’m currently reading "Athena Rising: How and Why Men Should Mentor Women" and working on an algorithm for daily rosters for MLB Fanduel
   
 
 - ❓ Ask me about anything related to data science, sports analytics, or data science consulting  
   
 
-- ⚡ Fun fact: my side hobbies are golf, photography and making music (guitar and vocals)  
+- ⚡ Fun fact: my side hobbies are podcasting, photography and making music (guitar and vocals)  
   
 
 <br/>  
